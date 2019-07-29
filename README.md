@@ -9,10 +9,10 @@ Simple, unsecured manager for ssh connections.
 > python sshManager.py
 
 ## Adding connections
-> save <name> <host> <user> <password>
+> save *name* *host* *user* *password*
 
 ## Connecting
-> connect <name>
+> connect *name*
   
 ## Deleting
 > TBA
